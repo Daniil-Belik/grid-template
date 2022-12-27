@@ -1,4 +1,7 @@
 .header {
+  display: grid;
+  align-items: center;
+
   background-color: $color-primary;
   background-image: url(../img/img-header.png);
   background-position: 50% 50%;
@@ -7,4 +10,6 @@
   position: relative;
 
   padding: 150px 0;
+  color: $color-white;
+
 }

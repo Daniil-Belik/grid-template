@@ -7,7 +7,13 @@
   }
 
   &__title {
-    margin: 0;
+    margin: 0 0 63px;
+    text-align: center;
   }
 
+  &__actions {
+    display: flex;
+    justify-content: center;
+    gap: $gap;
+  }
 }

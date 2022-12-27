@@ -3,6 +3,10 @@
 @import "presets/skin";
 @import "presets/variables";
 
+@import "mixins/mixins";
+@import "mixins/mixins-media";
+@import "mixins/extends";
+
 @import "common/typography";
 @import "common/classes";
 
@@ -12,7 +16,3 @@
 @import "components/header/header-menu";
 @import "components/header/header-navbar";
 @import "components/header/header-overlay";
-
-@import "mixins/mixins";
-@import "mixins/mixins-media";
-@import "mixins/extends";
