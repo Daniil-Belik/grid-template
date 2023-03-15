@@ -250,8 +250,8 @@ input:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 250px;
-  min-height: 60px;
+  width: 250px;
+  height: 60px;
   background-color: rgba(255, 255, 255, 0.1);
   border-width: 2px;
   border-style: solid;
@@ -887,8 +887,8 @@ input:focus {
   }
 
   .btn--light {
-    min-width: 250px;
-    min-height: 60px;
+    width: 250px;
+    height: 60px;
     font-size: 1.125rem;
   }
 
@@ -938,8 +938,8 @@ input:focus {
   }
 
   .btn--light {
-    min-width: 200px;
-    min-height: 50px;
+    width: 200px;
+    height: 50px;
     font-size: 1.125rem;
   }
 
@@ -980,8 +980,8 @@ input:focus {
   }
 
   .btn--light {
-    min-width: 170px;
-    min-height: 40px;
+    width: 170px;
+    height: 40px;
     font-size: 1.125rem;
   }
 
